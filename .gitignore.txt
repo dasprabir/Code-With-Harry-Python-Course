@@ -1,0 +1,2 @@
+Python codes\
+pycharm-community-2020.2.exe
